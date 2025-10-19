@@ -107,5 +107,3 @@ ANVESHAK demonstrates a **complete autonomous lunar mission simulation**, integr
 
 ---
 
-```
-
