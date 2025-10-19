@@ -1,0 +1,20 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+
+# ROS2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# React Frontend
+LUNA_COMMAND_DASHBOARD/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
