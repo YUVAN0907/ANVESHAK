@@ -1,4 +1,4 @@
-```markdown
+
 # 🛰️ ANVESHAK – LunaBot Autonomous Rover System
 
 **Smart India Hackathon 2025 – Problem Statement ID: 25169**  
